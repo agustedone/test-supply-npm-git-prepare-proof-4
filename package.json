@@ -1,0 +1,15 @@
+{
+  "name": "test-supply-npm-git-prepare-proof-4",
+  "version": "1.0.0",
+  "description": "Harmless git prepare proof for controlled Nexus routing-rule validation",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "node prepare.js"
+  },
+  "files": [
+    "index.js",
+    "prepare.js",
+    "README.md"
+  ]
+}
